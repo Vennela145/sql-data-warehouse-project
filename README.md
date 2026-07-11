@@ -110,8 +110,6 @@ All free and open-source! 🎉
 | **Draw.io** | Architecture & diagrams | [Draw.io](https://www.drawio.com/) |
 | **Notion** | Project management | [Notion](https://www.notion.com/) |
 
-📋 **[Full Project Roadmap](https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269)**
-
 ---
 
 ## 💡 What You'll Learn
